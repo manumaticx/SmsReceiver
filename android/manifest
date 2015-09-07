@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: SMS Receiver
+author: Manuel Lehner
+license: MIT
+copyright: Copyright (c) 2015 by GOYYA Systems GmbH & Co.KG
+
+# these should not be edited
+name: SmsReceiver
+moduleid: com.goyya.sms.receiver
+guid: 0d55c301-95ed-4a57-bd45-f8c031a9906f
+platform: android
+minsdk: 4.1.0.GA
